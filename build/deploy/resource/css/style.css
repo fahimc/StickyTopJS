@@ -1,0 +1,28 @@
+*{padding:0;margin:0;}
+body,html
+{
+	width:100%;
+	height:100%;
+}
+.holder
+{
+	height:300%;
+	width:100%;
+	background-color: #0f0;
+}
+.topper
+{
+	width: 100%;
+	height:400px;
+	background-color: #f00;
+}
+#sticky
+{
+	width: 100%;
+	height:50px;
+	background-color: #333;
+}
+.stickyTop
+{
+	
+}
